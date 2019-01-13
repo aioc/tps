@@ -1,0 +1,10 @@
+{
+    "name": "problemname",
+    "code": "problemname",
+    "title": "Problem Name",
+    "type": "Batch",
+    "time_limit": 1.0,
+    "memory_limit": 256,
+    "description": "Description",
+    "has_grader": false
+}
